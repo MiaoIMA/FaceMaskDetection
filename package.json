@@ -1,10 +1,10 @@
 {
-  "name": "Gesichtsmaskenerkennung",
+  "name": "FaceMaskDetection",
   "description": "KI-Gesichtsmaskenerkennung direkt in  Browser",
   "version": "1.0.0",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "vite",
+    "build": "vite build",
     "deploy": "gh-pages -d build",
     "preview": "vite preview",
     "predeploy": "yarn run build"
@@ -23,9 +23,9 @@
   "author": "MiaoIMA",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MiaoIMA/FaceMaskDetection.git"
+    "url": "https://github.com/MiaoIMA/FaceMaskDetection/issues"
   },
-  "homepage": "https://github.com/MiaoIMA/FaceMaskDetection.git",
+  "homepage": "https://github.com/MiaoIMA/FaceMaskDetection#readme",
   "dependencies": {
     "@tensorflow/tfjs": "^4.1.0",
     "normalize.css": "^8.0.1",
