@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MiaoIMA/FaceMaskDetection.git/static/css/main.f3ffef2b.chunk.css",
+    "main.js": "/MiaoIMA/FaceMaskDetection.git/static/js/main.55227eb4.chunk.js",
+    "main.js.map": "/MiaoIMA/FaceMaskDetection.git/static/js/main.55227eb4.chunk.js.map",
+    "runtime-main.js": "/MiaoIMA/FaceMaskDetection.git/static/js/runtime-main.c0a3624b.js",
+    "runtime-main.js.map": "/MiaoIMA/FaceMaskDetection.git/static/js/runtime-main.c0a3624b.js.map",
+    "static/js/2.53da6255.chunk.js": "/MiaoIMA/FaceMaskDetection.git/static/js/2.53da6255.chunk.js",
+    "static/js/2.53da6255.chunk.js.map": "/MiaoIMA/FaceMaskDetection.git/static/js/2.53da6255.chunk.js.map",
+    "index.html": "/MiaoIMA/FaceMaskDetection.git/index.html",
+    "static/css/main.f3ffef2b.chunk.css.map": "/MiaoIMA/FaceMaskDetection.git/static/css/main.f3ffef2b.chunk.css.map",
+    "static/js/2.53da6255.chunk.js.LICENSE.txt": "/MiaoIMA/FaceMaskDetection.git/static/js/2.53da6255.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0a3624b.js",
+    "static/js/2.53da6255.chunk.js",
+    "static/css/main.f3ffef2b.chunk.css",
+    "static/js/main.55227eb4.chunk.js"
+  ]
+}
