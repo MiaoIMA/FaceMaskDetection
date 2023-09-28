@@ -5,7 +5,8 @@
   <img src="./sample.png" />
 </p>
 
-
+**KI-Gesichtsmaskenerkennung direkt in Browser:**
+https://miaoima.github.io/FaceMaskDetection/
 ---
 
 Dies ist eine Gesichtsmaskenerkennungsanwendung, die direkt in Ihrem Browser unter Verwendung des webgl Backends läuft.
