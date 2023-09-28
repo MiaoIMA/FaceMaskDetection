@@ -76,19 +76,7 @@ Nun solltest du in der Lage sein, deine Webseite unter `https://Benutzername.git
 
 Denke daran, nach jeder Änderung am Projektcode `yarn run deploy` erneut auszuführen, um den Inhalt auf GitHub Pages zu aktualisieren.
 
-### Formatierung für GitHub README:
-```markdown
-## Wie man ein Projekt auf GitHub Pages veröffentlicht
 
-1. **[GitHub Repository erstellen](#1-erstelle-ein-github-repository)**
-2. **[Projektvorbereitung](#2-projektvorbereitung)**
-3. **[Pushe das Projekt auf GitHub](#3-pushe-das-projekt-auf-github)**
-4. **[Installiere das gh-pages Paket](#4-installiere-das-gh-pages-paket)**
-5. **[Konfiguriere package.json](#5-konfiguriere-packagejson)**
-6. **[Deploye das Projekt](#6-deploye-das-projekt)**
-7. **[Konfiguriere das GitHub Repository](#7-konfiguriere-das-github-repository)**
-8. **[Besuche deine Webseite](#8-besuche-deine-webseite)**
-```
 ## Reference
 
 - https://github.com/ultralytics/ultralytics
