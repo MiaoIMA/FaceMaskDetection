@@ -1,4 +1,4 @@
-# Face Mask detection using YOLOv8
+# 😷 Face Mask detection using YOLOv8
 # KI-Gesichtsmaskenerkennung
 
 <p align="center">
